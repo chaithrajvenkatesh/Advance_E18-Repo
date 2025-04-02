@@ -57,7 +57,7 @@ public class CreateCampaign extends BaseClass {
 
 	// @Parameters("browser")
 	@Test()
-	public void createCampaginWithCloseDateTestCase() throws IOException, InterruptedException {
+	public void createCampaginWithCloseDateTest() throws IOException, InterruptedException {
 		JavaUtility javaUtility = new JavaUtility();
 		int randomNum = javaUtility.getRandomNumber(10000);
 
