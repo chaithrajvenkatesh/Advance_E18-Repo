@@ -20,7 +20,7 @@ import ObjectRepository.CreateContactPage;
 import ObjectRepository.DashboardPage;
 
 
-public class CreateContact extends BaseClass {
+public class CreateContactTest extends BaseClass {
 
 	// @Parameters("browser")
 	@Test(groups = "RegressionTest")

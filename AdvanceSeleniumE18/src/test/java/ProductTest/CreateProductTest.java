@@ -19,7 +19,7 @@ import org.testng.Assert;
 import org.testng.Reporter;
 
 
-public class CreateProduct extends BaseClass {
+public class CreateProductTest extends BaseClass {
 
 	// @Parameters("browser")
 	@Test(groups = "IntegrationTest")

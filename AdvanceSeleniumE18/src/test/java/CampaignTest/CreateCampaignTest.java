@@ -17,7 +17,7 @@ import ObjectRepository.CreateCampaginsPage;
 import ObjectRepository.DashboardPage;
 
 
-public class CreateCampaign extends BaseClass {
+public class CreateCampaignTest extends BaseClass {
 	// @Parameters("browser")
 	@Test()
 	public void createCampaignTest() throws InterruptedException, IOException {
